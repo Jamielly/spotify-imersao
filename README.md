@@ -13,7 +13,7 @@ Baseado principalmente nas aulas da Alura - Imersão em Front-End. `#spotify-ime
 1. Clone ou faça o download deste repositório.
 
    ```bash
-   git clone https://github.com/jamielly/spotify-imersao.git
+   git clone https://github.com/Jamielly/spotify-imersao.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador web preferido.

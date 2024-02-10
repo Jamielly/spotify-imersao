@@ -30,15 +30,6 @@ Sinta-se à vontade para personalizar o projeto de acordo com suas preferências
 
 Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões de melhorias, por favor, abra uma issue neste repositório.
 
-## Autores
-
-Modificações por: 
-   <td>
-      <a href="https://github.com/Jamielly">
-        <p>Jamielly <br/>Reis</p>
-      </a>
-    </td>
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
